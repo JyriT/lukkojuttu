@@ -1,5 +1,6 @@
 # lukkojuttu
-Lukkojuttu Ardulle napit pinneihin 0-3 ledit tms outputit pinneihin 5-8 
+Lukkojuttu Ardulle napit pinneihin 0-3 ledit tms outputit pinneihin 5-8 ja viimeinen pin 9siin.
+9 pin aktivoituu kun pinnit 5-8 on aktiivisia.
 Lankkuna Uno, napeissa käytetty sisäisiä Pullup vastuksia.
 
 **********Koodi alkaa************************
